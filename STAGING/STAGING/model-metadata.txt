@@ -1,0 +1,6 @@
+model.name = Petal width predictor
+model.owner = Gregory Keys
+model.owner.lob = data science
+model.description = Prediction model: input petal length returns predicted petal width
+model.version = 1.0
+model.type = ML-predict|python
